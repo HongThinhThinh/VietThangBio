@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0.1px;  
+    border-radius: 4px ;
+}
+
+
+body{
+    background-image: url(http://chiase24.com/wp-content/uploads/2022/02/Tong-hop-cac-hinh-anh-background-dep-nhat-21.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: bottom ;
+ height: 100vh;
+ background-repeat: no-repeat;
+ background-image: transparent;
+ background-size: cover;
+}
+.card{
+    box-shadow: 7px 6px 4px 0px #dee2e6;
+margin-bottom: 20px;
+ opacity: 0.89;
+}
+a{
+ text-decoration: none;
+ text-align: center;
+ color: baclk
+}
+p{
+    font-size: 18px;
+    font-weight: 440;
+    letter-spacing: 1px;
+    padding-left: 15px;
+
+}
+h5{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 440;
+}
